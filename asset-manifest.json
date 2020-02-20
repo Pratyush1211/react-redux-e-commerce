@@ -2,16 +2,16 @@
   "files": {
     "main.js": "/react-redux-e-commerce/static/js/main.c6d25d8a.chunk.js",
     "main.js.map": "/react-redux-e-commerce/static/js/main.c6d25d8a.chunk.js.map",
-    "runtime-main.js": "/react-redux-e-commerce/static/js/runtime-main.65f246fd.js",
-    "runtime-main.js.map": "/react-redux-e-commerce/static/js/runtime-main.65f246fd.js.map",
+    "runtime-main.js": "/react-redux-e-commerce/static/js/runtime-main.ef77f01d.js",
+    "runtime-main.js.map": "/react-redux-e-commerce/static/js/runtime-main.ef77f01d.js.map",
     "static/js/2.57128036.chunk.js": "/react-redux-e-commerce/static/js/2.57128036.chunk.js",
     "static/js/2.57128036.chunk.js.map": "/react-redux-e-commerce/static/js/2.57128036.chunk.js.map",
     "static/js/3.93746b8d.chunk.js": "/react-redux-e-commerce/static/js/3.93746b8d.chunk.js",
     "static/js/3.93746b8d.chunk.js.map": "/react-redux-e-commerce/static/js/3.93746b8d.chunk.js.map",
     "static/js/4.59b27fce.chunk.js": "/react-redux-e-commerce/static/js/4.59b27fce.chunk.js",
     "static/js/4.59b27fce.chunk.js.map": "/react-redux-e-commerce/static/js/4.59b27fce.chunk.js.map",
-    "static/js/5.beca27de.chunk.js": "/react-redux-e-commerce/static/js/5.beca27de.chunk.js",
-    "static/js/5.beca27de.chunk.js.map": "/react-redux-e-commerce/static/js/5.beca27de.chunk.js.map",
+    "static/js/5.b2a8b83a.chunk.js": "/react-redux-e-commerce/static/js/5.b2a8b83a.chunk.js",
+    "static/js/5.b2a8b83a.chunk.js.map": "/react-redux-e-commerce/static/js/5.b2a8b83a.chunk.js.map",
     "static/js/6.2e93ab0e.chunk.js": "/react-redux-e-commerce/static/js/6.2e93ab0e.chunk.js",
     "static/js/6.2e93ab0e.chunk.js.map": "/react-redux-e-commerce/static/js/6.2e93ab0e.chunk.js.map",
     "static/js/7.8f0686d3.chunk.js": "/react-redux-e-commerce/static/js/7.8f0686d3.chunk.js",
@@ -21,12 +21,12 @@
     "static/js/9.f3281c98.chunk.js": "/react-redux-e-commerce/static/js/9.f3281c98.chunk.js",
     "static/js/9.f3281c98.chunk.js.map": "/react-redux-e-commerce/static/js/9.f3281c98.chunk.js.map",
     "index.html": "/react-redux-e-commerce/index.html",
-    "precache-manifest.86729330ad65ba56d2ce41a448d09c51.js": "/react-redux-e-commerce/precache-manifest.86729330ad65ba56d2ce41a448d09c51.js",
+    "precache-manifest.a1d328d6696a4c11bd22cb4f056fc4ef.js": "/react-redux-e-commerce/precache-manifest.a1d328d6696a4c11bd22cb4f056fc4ef.js",
     "service-worker.js": "/react-redux-e-commerce/service-worker.js",
     "static/js/2.57128036.chunk.js.LICENSE.txt": "/react-redux-e-commerce/static/js/2.57128036.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.65f246fd.js",
+    "static/js/runtime-main.ef77f01d.js",
     "static/js/2.57128036.chunk.js",
     "static/js/main.c6d25d8a.chunk.js"
   ]
