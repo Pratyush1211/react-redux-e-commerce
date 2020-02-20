@@ -25,6 +25,7 @@ const MyOrders = () => {
           ))}
         </div>
       )}
+      {!loading && hasLoaded && orders.length === 0 && <div>You don't have any orders</div>}
     </div>
   );
 };
