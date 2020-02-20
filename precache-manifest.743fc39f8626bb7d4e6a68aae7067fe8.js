@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e96f0f82e610164eb1e373cfad66da21",
+    "revision": "2ca6d952532099a08474e15995c101f5",
     "url": "/react-redux-e-commerce/index.html"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-redux-e-commerce/static/js/6.2e93ab0e.chunk.js"
   },
   {
-    "revision": "bca3b1f2806c1e850c36",
-    "url": "/react-redux-e-commerce/static/js/7.afa51a60.chunk.js"
+    "revision": "6ce339073a7491eb8d50",
+    "url": "/react-redux-e-commerce/static/js/7.8f0686d3.chunk.js"
   },
   {
     "revision": "d774eb4e892c6c1e076c",
@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-redux-e-commerce/static/js/main.c6d25d8a.chunk.js"
   },
   {
-    "revision": "7c65da5792d2d082eec2",
-    "url": "/react-redux-e-commerce/static/js/runtime-main.18d89507.js"
+    "revision": "ccd4b22770e52c9d7615",
+    "url": "/react-redux-e-commerce/static/js/runtime-main.bb2d58bc.js"
   }
 ]);
