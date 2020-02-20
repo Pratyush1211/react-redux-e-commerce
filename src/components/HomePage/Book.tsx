@@ -8,7 +8,7 @@ const Book = ({ book, handleClick }: { book: BookType; handleClick: Function }) 
   const { title, author, publishedDate, image, quantity, price } = book;
   return (
     <Grid style={{ display: 'flex', padding: 10 }} item xs={12} sm={6} md={4}>
-      <BookImage title={title} src={image} />
+      <BookImage title={title} src={image} style={{ maxWidth: 128 }} />
       <div style={{ flexGrow: 1, display: 'flex', flexDirection: 'column', paddingLeft: 10 }}>
         <div>
           <Typography component="h6" variant="h6">
