@@ -3,7 +3,7 @@
     "title": "The Book of Why",
     "author": "Judea Pearl",
     "publishedDate": "2018-05-15",
-    "image": "http://books.google.com/books/content?id=BzM0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "https://books.google.com/books/content?id=BzM0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "quantity": 9,
     "price": 8378,
     "id": "803358d7-176b-467a-82c1-3d2fe70c1b12"
@@ -12,7 +12,7 @@
     "title": "The Book",
     "author": "Nicole Howard",
     "publishedDate": "2005",
-    "image": "http://books.google.com/books/content?id=4WwdMJKXzhEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "https://books.google.com/books/content?id=4WwdMJKXzhEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "quantity": 29,
     "price": 8669,
     "id": "464b74b8-1bae-4a1f-ac43-0c8637fd56b5"
@@ -21,7 +21,7 @@
     "title": "Google Chrome",
     "author": "Unknown Author",
     "publishedDate": ["2020-02-18", "08:35:51.858Z"],
-    "image": "http://books.google.com/books/content?id=8UsqHohwwVYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "https://books.google.com/books/content?id=8UsqHohwwVYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "quantity": 47,
     "price": 157,
     "id": "27dc8475-1c2e-4bba-952a-761c92126f5a"
@@ -30,7 +30,7 @@
     "title": "The Coming of the Book",
     "author": "Lucien Febvre",
     "publishedDate": "1997",
-    "image": "http://books.google.com/books/content?id=9opxcMjv4TUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "https://books.google.com/books/content?id=9opxcMjv4TUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "quantity": 47,
     "price": 5137,
     "id": "28238f4f-d623-4512-8730-70dd517b51cb"
@@ -39,7 +39,7 @@
     "title": "It",
     "author": "Stephen King",
     "publishedDate": "2016-01-05",
-    "image": "http://books.google.com/books/content?id=S85NCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "https://books.google.com/books/content?id=S85NCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "quantity": 14,
     "price": 5017,
     "id": "ae2d87e7-fb72-464e-acbd-e895f6b0cce9"
@@ -48,7 +48,7 @@
     "title": "The Hunger Games",
     "author": "Suzanne Collins",
     "publishedDate": "2008",
-    "image": "http://books.google.com/books/content?id=hlb_sM1AN0gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "https://books.google.com/books/content?id=hlb_sM1AN0gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "quantity": 56,
     "price": 8009,
     "id": "20dadc87-598a-4c7e-838a-b5a5dde4373a"
@@ -57,7 +57,7 @@
     "title": "Alice's Adventures in Wonderland",
     "author": "Lewis Carroll",
     "publishedDate": "1869",
-    "image": "http://books.google.com/books/content?id=btIQAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "https://books.google.com/books/content?id=btIQAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "quantity": 62,
     "price": 8429,
     "id": "bce2f2e2-117f-4e13-9d17-87ceca3c1402"
@@ -66,7 +66,7 @@
     "title": "The Booklist",
     "author": "Unknown Author",
     "publishedDate": "1906",
-    "image": "http://books.google.com/books/content?id=S3RWpOtkvmAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "image": "https://books.google.com/books/content?id=S3RWpOtkvmAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "quantity": 89,
     "price": 2747,
     "id": "f024ae49-979f-41d2-96a5-faba1019eaa7"
@@ -75,7 +75,7 @@
     "title": "The ICU Book",
     "author": "Paul L. Marino",
     "publishedDate": "2007",
-    "image": "http://books.google.com/books/content?id=OWEmVx9MS74C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "https://books.google.com/books/content?id=OWEmVx9MS74C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "quantity": 43,
     "price": 9164,
     "id": "0134a49c-cb0f-422d-a11b-c2df1fbbdd84"
@@ -84,7 +84,7 @@
     "title": "The Nature of the Book",
     "author": "Adrian Johns",
     "publishedDate": "1998",
-    "image": "http://books.google.com/books/content?id=zobsj8npWeAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "image": "https://books.google.com/books/content?id=zobsj8npWeAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "quantity": 72,
     "price": 3423,
     "id": "8ef24bf0-5398-4330-a5cc-78bb3cd3ec0b"
