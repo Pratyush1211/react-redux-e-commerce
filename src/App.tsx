@@ -21,7 +21,7 @@ const App = () => {
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
         <Container>
-          <Router basename="/react-redux-e-commerce">
+          <Router basename={process.env.PUBLIC_URL}>
             <Nav />
             <Toolbar />
             <Suspense fallback={<CircularProgress />}>
