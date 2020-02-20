@@ -2,6 +2,8 @@
 
 React, Redux book e-commerce application example using localStorage as API.
 
+Open [react-redux-e-commerce](https://defex.github.io/react-redux-e-commerce/) to view it in the browser.
+
 ## Getting started
 
 Download the repository
