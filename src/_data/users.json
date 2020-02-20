@@ -1,0 +1,18 @@
+[
+  {
+    "id": "f44b4a6c-eda1-4eca-a9e5-69df35385a1b",
+    "name": "Yagami",
+    "surname": "Light",
+    "username": "Kira",
+    "password": "DeathNode",
+    "role": "admin"
+  },
+  {
+    "id": "c22cc178-2522-4ee9-833d-4c835f97680e",
+    "name": "User",
+    "surname": "Some",
+    "username": "simple",
+    "password": "123",
+    "role": "client"
+  }
+]
