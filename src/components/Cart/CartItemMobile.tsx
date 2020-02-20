@@ -1,6 +1,6 @@
 import React from 'react';
-import { Item } from '../../reducers/cart/types';
 import { Typography } from '@material-ui/core';
+import { Item } from '../../reducers/cart/types';
 import Price from '../Price';
 import CartItemQuantity from './CartItemQuantity';
 import BookImage from '../BookImage';

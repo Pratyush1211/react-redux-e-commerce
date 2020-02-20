@@ -3,11 +3,11 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import { CircularProgress, Container, Toolbar } from '@material-ui/core';
 
+import { PersistGate } from 'redux-persist/integration/react';
 import store, { persistor } from './reducers/store';
 
 import Nav from './components/Nav';
 import Authentication from './pages/Authentication';
-import { PersistGate } from 'redux-persist/integration/react';
 
 const HomePage = lazy(() => import('./pages/HomePage'));
 const UsersPage = lazy(() => import('./pages/UsersPage'));

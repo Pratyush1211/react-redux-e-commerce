@@ -1,7 +1,7 @@
 import React from 'react';
-import { useGetUsers, useAllowAdmin } from '../../reducers/users/hooks';
 import { Table, CircularProgress, TableHead, TableRow, TableCell, TableBody, Button } from '@material-ui/core';
 import { useHistory } from 'react-router';
+import { useGetUsers, useAllowAdmin } from '../../reducers/users/hooks';
 import { pages } from '../../routes';
 
 const UsersPage = () => {

@@ -1,12 +1,12 @@
 import { useDispatch, useSelector } from 'react-redux';
 import { uuid } from 'uuidv4';
+import { useEffect, useState } from 'react';
+import { useHistory } from 'react-router-dom';
 import { Item } from '../cart/types';
 import { apiOrderPost, apiGetOrdersByUser, apiPutOrders } from './actions';
 import { orderStatuses, Order } from './types';
 import { useMe } from '../me/hooks';
 import { RootReducer } from '../rootReducer';
-import { useEffect, useState } from 'react';
-import { useHistory } from 'react-router-dom';
 
 export const useOrders = () => {
   return useSelector((state: RootReducer) => state.orders);

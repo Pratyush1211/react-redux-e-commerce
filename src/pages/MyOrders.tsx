@@ -1,6 +1,6 @@
 import React from 'react';
-import { useGetMyOrders, useOrderActions } from '../reducers/orders/hooks';
 import { CircularProgress, Backdrop } from '@material-ui/core';
+import { useGetMyOrders, useOrderActions } from '../reducers/orders/hooks';
 import { Order } from '../reducers/orders/types';
 import MyOrder from '../components/MyOrders/MyOrder';
 
@@ -25,7 +25,7 @@ const MyOrders = () => {
           ))}
         </div>
       )}
-      {!loading && hasLoaded && orders.length === 0 && <div>You don't have any orders</div>}
+      {!loading && hasLoaded && orders.length === 0 && <div>{`You don't have any orders`}</div>}
     </div>
   );
 };

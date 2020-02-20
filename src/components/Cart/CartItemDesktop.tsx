@@ -1,8 +1,8 @@
 import React from 'react';
+import { ListItem, Typography } from '@material-ui/core';
 import BookImage from '../BookImage';
 import Price from '../Price';
 import { Item } from '../../reducers/cart/types';
-import { ListItem, Typography } from '@material-ui/core';
 import CartItemQuantity from './CartItemQuantity';
 
 const CartItem = ({

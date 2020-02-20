@@ -1,5 +1,4 @@
 import React from 'react';
-import { useGetOrdersByUserId, useOrderActions } from '../reducers/orders/hooks';
 import {
   CircularProgress,
   TableHead,
@@ -11,6 +10,7 @@ import {
   Backdrop,
 } from '@material-ui/core';
 import { useHistory, useParams } from 'react-router';
+import { useGetOrdersByUserId, useOrderActions } from '../reducers/orders/hooks';
 import { useAllowAdmin, useAllowedActions } from '../reducers/users/hooks';
 import { actions } from '../allowedActionsConfig';
 

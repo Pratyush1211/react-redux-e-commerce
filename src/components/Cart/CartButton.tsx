@@ -16,11 +16,9 @@ const CartButton = ({
   return (
     <Grid container justify="flex-end">
       {loading && <CircularProgress />}
-      <Button
-        startIcon={<ShoppingCartSharpIcon />}
-        disabled={disabled}
-        onClick={() => handleClick()}
-      >{`Cart: ${totalCount}`}</Button>
+      <Button startIcon={<ShoppingCartSharpIcon />} disabled={disabled} onClick={() => handleClick()}>
+        {`Cart: ${totalCount}`}
+      </Button>
     </Grid>
   );
 };

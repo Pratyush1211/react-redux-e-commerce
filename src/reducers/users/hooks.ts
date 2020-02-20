@@ -1,8 +1,8 @@
 import { useEffect, useCallback, useMemo, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
+import { useHistory } from 'react-router';
 import { RootReducer } from '../rootReducer';
 import { apiAuthenticate, apiGetUsers } from './actions';
-import { useHistory } from 'react-router';
 import { useMe } from '../me/hooks';
 import { UserRoles } from './types';
 import { orderStatuses } from '../orders/types';

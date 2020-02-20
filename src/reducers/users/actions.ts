@@ -59,7 +59,7 @@ export const apiGetUsers = (): AppThunk => async dispatch => {
       const createdUsers = await postUsers(initialUsers);
       dispatch(setUsers(createdUsers));
     }
-    if (!!users) {
+    if (users) {
       dispatch(setUsers(users));
     }
     dispatch(fetchEnd());

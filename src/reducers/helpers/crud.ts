@@ -1,6 +1,6 @@
+import { uuid } from 'uuidv4';
 import { timeout } from '../helpers';
 import { cachedStorage } from './storage';
-import { uuid } from 'uuidv4';
 
 interface BaseItem {
   id?: string;

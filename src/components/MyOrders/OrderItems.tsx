@@ -23,7 +23,10 @@ const OrderItems = ({ items }: { items: Item[] }) => {
               <div style={{ color: '#7A7878' }}>{item.publishedDate}</div>
             </div>
             <div>
-              <div>Count: {item.quantity}</div>
+              <div>
+                Count:
+                {item.quantity}
+              </div>
               <BookPrice value={item.price * item.quantity} />
             </div>
           </div>

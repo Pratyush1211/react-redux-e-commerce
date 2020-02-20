@@ -1,7 +1,7 @@
 import React from 'react';
+import { CircularProgress } from '@material-ui/core';
 import { useAllowAdmin } from '../reducers/users/hooks';
 import { useGetBooks } from '../reducers/books/hooks';
-import { CircularProgress } from '@material-ui/core';
 import BookEditForm from '../components/BookEditForm';
 import BookCreateForm from '../components/BookCreateForm';
 

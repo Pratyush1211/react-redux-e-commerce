@@ -1,6 +1,6 @@
 import { useDispatch, useSelector } from 'react-redux';
-import { RootReducer } from '../rootReducer';
 import { useCallback } from 'react';
+import { RootReducer } from '../rootReducer';
 import { Item } from './types';
 import { cartAddItem, cartRemoveItem } from './actions';
 

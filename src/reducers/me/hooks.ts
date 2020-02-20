@@ -1,8 +1,8 @@
 import { useSelector, useDispatch } from 'react-redux';
-import { RootReducer } from '../rootReducer';
 import { useCallback, useEffect } from 'react';
-import { clearMe } from './actions';
 import { useHistory } from 'react-router';
+import { RootReducer } from '../rootReducer';
+import { clearMe } from './actions';
 
 export const useMe = () => {
   const me = useSelector((state: RootReducer) => state.me);
