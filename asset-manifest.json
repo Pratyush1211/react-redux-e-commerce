@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react-redux-e-commerce/static/js/main.c6d25d8a.chunk.js",
-    "main.js.map": "/react-redux-e-commerce/static/js/main.c6d25d8a.chunk.js.map",
+    "main.js": "/react-redux-e-commerce/static/js/main.c761c16b.chunk.js",
+    "main.js.map": "/react-redux-e-commerce/static/js/main.c761c16b.chunk.js.map",
     "runtime-main.js": "/react-redux-e-commerce/static/js/runtime-main.18d89507.js",
     "runtime-main.js.map": "/react-redux-e-commerce/static/js/runtime-main.18d89507.js.map",
     "static/js/2.57128036.chunk.js": "/react-redux-e-commerce/static/js/2.57128036.chunk.js",
@@ -21,13 +21,13 @@
     "static/js/9.f3281c98.chunk.js": "/react-redux-e-commerce/static/js/9.f3281c98.chunk.js",
     "static/js/9.f3281c98.chunk.js.map": "/react-redux-e-commerce/static/js/9.f3281c98.chunk.js.map",
     "index.html": "/react-redux-e-commerce/index.html",
-    "precache-manifest.56984d510d7cca62a6eb4c16b9e50372.js": "/react-redux-e-commerce/precache-manifest.56984d510d7cca62a6eb4c16b9e50372.js",
+    "precache-manifest.47589fc4ab5f063e89c1879373fdf199.js": "/react-redux-e-commerce/precache-manifest.47589fc4ab5f063e89c1879373fdf199.js",
     "service-worker.js": "/react-redux-e-commerce/service-worker.js",
     "static/js/2.57128036.chunk.js.LICENSE.txt": "/react-redux-e-commerce/static/js/2.57128036.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.18d89507.js",
     "static/js/2.57128036.chunk.js",
-    "static/js/main.c6d25d8a.chunk.js"
+    "static/js/main.c761c16b.chunk.js"
   ]
 }
